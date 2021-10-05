@@ -1,0 +1,23 @@
+When to use DP
+
+To be precise DP is nothing but enhanced recurrsion.
+So whenver a problem has overlapping sub problems and recurssion is used it is a DP problem
+to identify a DP problem
+1. Choice- u want to include something or not
+2. Optimal - max min largest etc etc
+
+
+Parent Questions
+1. Knapsack Problem
+2.Unbounded Knapsack
+3.Fibonacci Series
+4.LCS
+5.LIS
+6.Kadanes Algorithm
+7. Matrix Chain Muultipliation
+8. DP on trees
+9.DP on grid
+10.Others
+
+
+Learning these 10 will enable me to solve more than 80 problems in DP
